@@ -4,4 +4,4 @@ Scheduling meetings is a crucial yet often complex and time-consuming task in th
 
 # Note
 
-This website is incomplete. The full website is still under construction.
+This website is incomplete.

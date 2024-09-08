@@ -293,6 +293,7 @@ C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.Assemb
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.sourcelink.json
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -301,7 +302,7 @@ C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\staticweba
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
-C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.csproj.Up2Date
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.dll
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\refint\API.dll
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\API\obj\Debug\net6.0\API.pdb

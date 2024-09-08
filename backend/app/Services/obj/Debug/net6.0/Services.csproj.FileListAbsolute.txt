@@ -38,7 +38,8 @@ C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Servi
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
-C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Services.sourcelink.json
+C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Services.csproj.Up2Date
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Services.dll
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\refint\Services.dll
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Services\obj\Debug\net6.0\Services.pdb

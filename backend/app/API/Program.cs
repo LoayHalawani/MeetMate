@@ -49,7 +49,7 @@ builder.Services.AddSwaggerGen(options =>
 
 builder.Services.AddDbContext<MeetingRoomDbContext>(options =>
 {
-    options.UseSqlServer("Server=.\\MSSQLSERVER01;Database=MeetingRoomDB;Trusted_Connection=True;Encrypt=False;");
+    options.UseSqlServer("Server=MSI;Database=MeetingRoomDB;Trusted_Connection=True;Encrypt=False;");
 });
 
 builder.Services.AddIdentity<User, Role>(options =>

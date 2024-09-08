@@ -35,6 +35,7 @@ C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Core\obj\Debug\net6.0\Core.Gene
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Core\obj\Debug\net6.0\Core.sourcelink.json
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Core\obj\Debug\net6.0\Core.dll
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Core\obj\Debug\net6.0\refint\Core.dll
 C:\Users\loayh\Desktop\Code\MeetMate\backend\app\Core\obj\Debug\net6.0\Core.pdb

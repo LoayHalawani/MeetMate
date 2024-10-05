@@ -1,0 +1,176 @@
+body {
+  color: black;
+}
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+}
+
+.left {
+  left: 0;
+  background: linear-gradient(rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),
+    url("../Assets/Backgrounds/Background2.jpg");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.right {
+  right: 0;
+  padding: 5%;
+}
+
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img {
+  position: sticky;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.display-5 {
+  font-family: Tahoma;
+  font-weight: bold;
+  color: #5cacbc;
+  text-align: center;
+}
+
+.lead {
+  text-align: center;
+  padding-top: 2%;
+}
+
+.login {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 2%;
+  margin-bottom: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form {
+  font-family: sans-serif;
+}
+
+.form-floating label {
+  padding-left: 0;
+  color: grey;
+}
+
+.form-floating .form-control {
+  padding-left: 0;
+}
+
+.form-control {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+  border-width: 2px;
+  border-color: silver;
+  width: 50%;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: silver;
+}
+
+.form-control:-webkit-autofill {
+  -webkit-background-clip: text;
+}
+
+.gender-label {
+  color: grey;
+  padding-right: 5%;
+}
+
+input[type="radio"] {
+  border-color: grey;
+}
+
+input[type="radio"]:focus {
+  box-shadow: none;
+}
+
+.date-label {
+  color: grey;
+  padding-right: 5%;
+}
+
+.date {
+  border: none;
+}
+
+.date:focus {
+  outline: none;
+}
+
+.toggle-label {
+  color: grey;
+  padding-left: 1%;
+}
+
+.buttons {
+  display: flex;
+  gap: 5%;
+  justify-content: center;
+  align-items: center;
+}
+
+.clear {
+  width: 17.5%;
+  padding: 1.5%;
+  color: white;
+  background-color: #24547c;
+  border-color: black;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.clear:hover {
+  background-color: #54849c;
+}
+
+.clear:active {
+  background-color: #5cacbc;
+}
+
+.create {
+  width: 17.5%;
+  padding: 1.5%;
+  color: white;
+  background-color: #24547c;
+  border-color: black;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.create:hover {
+  background-color: #54849c;
+}
+
+.create:active {
+  background-color: #5cacbc;
+}

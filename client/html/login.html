@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Loay Halawani" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="../css/login.css" />
+    <link rel="icon" type="image/x-icon" href="../assets/logo/favicon.png" />
+    <title>Login</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <div class="split left">
+      <div class="center">
+        <h1 class="display-5">LOGIN</h1>
+        <p class="lead">
+          Don't have an account?
+          <a href="register.html" class="register">Signup</a>
+        </p>
+        <hr width="60%" />
+        <form action="company.html" method="">
+          <div class="role-input">
+            <label class="role-label">ROLE</label>
+            <div class="form-check form-check-inline">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="inlineRadioOptions"
+                id="inlineRadio1"
+                value="false"
+                name="toggle-list"
+                checked
+              />
+              <label class="form-check-label" for="inlineRadio1">Admin</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="inlineRadioOptions"
+                id="inlineRadio2"
+                value="true"
+                name="toggle-list"
+              />
+              <label class="form-check-label" for="inlineRadio2"
+                >Employee</label
+              >
+            </div>
+            <select class="form-select" name="show" id="show">
+              <option selected disabled>Select Role</option>
+              <option>Manager</option>
+              <option>Accountant</option>
+              <option>Engineer</option>
+              <option>Information Technology</option>
+              <option>Human Resources</option>
+              <option>Assistant</option>
+              <option>Consultant</option>
+            </select>
+          </div>
+          <br />
+          <div class="form-floating mb-3">
+            <input
+              type="email"
+              class="form-control"
+              id="Email"
+              placeholder=""
+              required
+            />
+            <label for="Email">EMAIL</label>
+          </div>
+          <br />
+          <div class="form-floating mb-3">
+            <input
+              type="password"
+              class="form-control"
+              id="pass"
+              placeholder=""
+              required
+            />
+            <label for="pass">PASSWORD</label>
+          </div>
+          <input type="checkbox" id="toggle" onclick="myFunction()" />
+          <label class="toggle-label" for="toggle">Show Password</label>
+          <br /><br /><br /><br />
+          <div class="buttons">
+            <input
+              type="reset"
+              value="CLEAR"
+              class="clear"
+              onclick="myFunction1()"
+            />
+            <input type="submit" value="LOGIN" class="access" />
+          </div>
+        </form>
+      </div>
+    </div>
+    <div class="split right">
+      <div class="logo">
+        <a href="home.html"
+          ><img
+            src="../assets/logo/logo.png"
+            width="250px"
+            height="250px"
+            alt="MeetMate Logo"
+        /></a>
+      </div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../js/toggleRoles.js"></script>
+    <script src="../js/togglePassword.js"></script>
+  </body>
+</html>

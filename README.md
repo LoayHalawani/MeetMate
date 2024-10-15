@@ -4,7 +4,7 @@ Scheduling meetings is a crucial yet often complex and time-consuming task in th
 
 # Technologies
 
-This web application is developed using HTML, CSS, VanillaJS, C# ASP.NET Core, and Microsoft SQL Server.
+This web application is developed using HTML, CSS, VanillaJS, .NET Core, and Microsoft SQL Server.
 
 # How-to-run
 

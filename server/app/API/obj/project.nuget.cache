@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ksp0YPd9In8=",
+  "dgSpecHash": "JZeXM56HvFo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\loayh\\Desktop\\Code\\MeetMate\\backend\\app\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\loayh\\Desktop\\Code\\MeetMate\\server\\app\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\loayh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\loayh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

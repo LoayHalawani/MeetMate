@@ -9,3 +9,9 @@ This web application is developed using HTML, CSS, VanillaJS, .NET Core, and Mic
 # How-to-run
 
 To be continued...
+
+# Notes
+
+I will be developing a new frontend to showcase my skills in React.js :)
+
+Need to then connect frontend with backend.
